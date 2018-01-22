@@ -1,0 +1,44 @@
+body{
+  margin: 0 auto;
+  background-image: url("bisiklet.jpg");
+ background-repeat: no-repeat;
+ background-size: 100% 720px;
+}
+.container{
+ width: 500px;
+ height: 400px;
+ text-align: center;
+ background-color: rgba(52,73,94,0.7);
+ border-radius: 4px;
+ margin: 0 auto;
+ margin-top: 150px;
+}
+.container img{
+ width: 120px;
+ height: 120px;
+ margin-top: -60px;
+ margin-bottom: 30px;
+ border-radius: 125px;
+}
+input[type="text"],input[type="password"]{
+	height: 45px;
+	width: 300px;
+	font-size: 18px;
+	margin-bottom: 20px;
+	border-radius: 15px;
+	background-color: white;
+	padding-left: 40px;
+}
+.btn-giris{
+	padding: 15px 25px;
+	cursor: pointer;
+	color: white;
+	border-radius: 4px;
+	border: none;
+	background-color: #2ECC71;
+	border-bottom: 5px solid #27AE60;
+	margin-bottom: 15px;
+}
+a{
+ color: white;
+}

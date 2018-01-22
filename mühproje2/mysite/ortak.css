@@ -1,0 +1,20 @@
+body{
+  margin: 0 auto;
+  background-image: url("bisiklet.jpg");
+ background-repeat: no-repeat;
+ background-size: 100% 720px;
+}
+.container{
+ width: 500px;
+ height: 400px;
+ text-align: center;
+ background-color: rgba(52,73,94,0.7);
+ border-radius: 4px;
+ margin: 0 auto;
+ margin-top: 150px;
+}
+
+
+
+
+
